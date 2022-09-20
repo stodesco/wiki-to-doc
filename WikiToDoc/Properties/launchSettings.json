@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WikiToDoc": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Code\\Business-Register-Lookup-Service.wiki"
+    }
+  }
+}
